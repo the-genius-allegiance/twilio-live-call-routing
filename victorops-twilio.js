@@ -25,7 +25,7 @@ module.exports = {
 function handler (context, event, callback) {
   const messages = {
     missingConfig: 'There is a missing configuration value. Please contact your administrator to fix the problem.',
-    greeting: 'Welcome to Victor Ops Live Call Routing.',
+    greeting: 'Welcome to The Genius Allegiance Live Call Routing System.',
     menu: 'Please press 1 to reach an on-call representative or press 2 to leave a message.',
     zeroToRepeat: 'Press zero to repeat this menu.',
     noResponse: 'We did not receive a response.',
